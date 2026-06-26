@@ -5,4 +5,4 @@ pymongo
 certifi
 ##-e .
 pymongo[srv]==3.11
-pymongo
+scikit-learn
